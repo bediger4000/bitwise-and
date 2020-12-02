@@ -38,8 +38,8 @@ func rangeBitwiseAnd(m, n uint) uint {
 }
 ```
 
-In essense this finds the highest bit(s) of both numbers that
-are set, and zeros the lower bit(s).
+This finds the highest bit(s) of both numbers that are set,
+and zeros the lower bit(s).
 
 For example M = 202, N = 205:
 
